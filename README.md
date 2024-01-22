@@ -17,7 +17,7 @@ Hi, i'm Ian Emmanuel Reyes Yan, and i'm a student in the Universidad Tecmilenio 
 - SolidWorks
 - Adobe Phosothop
 - Adobe Illustrator
-- 
+- 3ds Max
 
 ### *Objectives / Goals*
 
