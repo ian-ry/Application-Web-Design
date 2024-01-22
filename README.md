@@ -1,13 +1,40 @@
-# Readme for DAW git
-## Student information
-#### Name: Ian Emmanuel Reyes Yan
-#### Registration Number: 02706207
-#### Degree: Software Engineering
-#### Semester: 6th
-## Subject information
-#### Subject: Web Application Design
-#### Professor: Manuel Alejandro García Andrade
+# Ian Emmanuel Reyes Yan
+### *Introduction*
+Hi, i'm Ian Emmanuel Reyes Yan, and i'm a student in the Universidad Tecmilenio degree of Software Engineering. I like videogames, music, food and fashion.
 
-## What is markdown?
-Markdown is a simple and easy language used for formatting docuents using plain-text, and can be used to add headings, bullet lists, et cétera.
-It is mainly used for documentation and other web based applications.
+### *Academic Background*
+- Studied High School at Tecmilenio Campus Ferrería.
+- Studied Industrial Design degree at Universidad del Valle de México campus Lomas Verdes.
+- Studying Software Engineering at Universidad Tecmilenio.
+
+### *Skills and Tools*
+
+- Python
+- Java
+- C++
+- Swift
+- Microsoft Office Suite
+- SolidWorks
+- Adobe Phosothop
+- Adobe Illustrator
+- 
+
+### *Objectives / Goals*
+
+- Finish the Software Engineering Degree.
+- Learn more about data engineering.
+- Work in a data engineering position.
+- Be happy.
+
+### *Personal Projects*
+
+- Android delivery app for a corner store.
+- Small material calculator for the Destiny 2 videogame.
+
+### *Contact Info*
+
+- [Github](https://github.com/ian-ry)
+- [Email](mailto:ianry9819@gmail.com)
+- [Other URLS](https://ianry.carrd.co)
+
+### ***"To be loved, is to be changed" - Anonymous***
